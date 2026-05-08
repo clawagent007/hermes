@@ -1,4 +1,4 @@
-# Hermes Agent on Android/Termux
+# hermes on termux
 
 삼성 S22의 Termux 환경에 `hermes-agent`를 설치한 기록과 초기 설정 메모를 정리한 문서입니다.
 
@@ -22,9 +22,10 @@ pkg upgrade
 ### 먼저 해둘 것
 
 1. Termux를 실행합니다.
-2. 저장소 경고가 보이면 아래 명령을 실행합니다.
+2. 저장소와 파일 접근 권한을 준비합니다.
 
 ```bash
+termux-setup-storage
 termux-change-repo
 ```
 

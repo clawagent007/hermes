@@ -11,6 +11,11 @@ Termux는 *Google Play 버전*보다 *GitHub Release*나 *F-Droid* 버전을 사
 - GitHub Release: https://github.com/termux/termux-app/releases
 - F-Droid: https://f-droid.org/ko/packages/com.termux/
 
+### 버전별 설치 메모
+
+- 예전 버전(0.12 이전)에서는 F-Droid에서 최신 Termux가 설치되었지만, 최신 버전(0.13)에서는 오류가 발생했습니다.
+- 이 경우 Play Store에서 구버전 Termux를 설치하니 성공했습니다.
+
 설치 후 처음 실행하면 아래처럼 기본 안내가 나옵니다.
 
 ```bash

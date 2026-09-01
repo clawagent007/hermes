@@ -1,0 +1,7 @@
+title: F-Droid Termux Hermes Agent 가이드
+description: Python 3.13과 uv로 Android Termux에 Hermes Agent 설치하기
+url: "https://clawagent007.github.io"
+baseurl: "/fdroid-termux-hermes-agent-blog"
+theme: minima
+lang: ko-KR
+markdown: kramdown

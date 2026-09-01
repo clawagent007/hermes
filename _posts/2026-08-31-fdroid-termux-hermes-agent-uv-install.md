@@ -3,6 +3,7 @@ layout: post
 title: "F-Droid Termux에 uv로 Hermes Agent 설치하기"
 description: "Python 3.14 기본 환경을 피하고 Python 3.13과 uv로 Hermes를 설치·검증하는 재현 가능한 절차"
 date: 2026-08-31 09:00:00 +0900
+permalink: /fdroid-termux-hermes-agent-uv-install/
 tags: [hermes-agent, termux, android, uv, installation]
 ---
 
